@@ -12,19 +12,9 @@ npm init
 ```
 npm install --save-dev nodemon
 ```
-5. Install all the packages given below ( npm install package_name)
+5. To Install all the packages in package.json file
 ```
-bcrypt
-cookie-parser
-crypto
-dotenv
-ejs
-express
-jsonwebtoken
-moment
-mongoose
-nodemailer
-validator
+npm install
 ```
 6. run the following command to start the server
 ```
